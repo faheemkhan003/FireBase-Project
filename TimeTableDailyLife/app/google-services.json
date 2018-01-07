@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "118544342411",
+    "firebase_url": "https://todolist-179ca.firebaseio.com",
+    "project_id": "todolist-179ca",
+    "storage_bucket": "todolist-179ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118544342411:android:1cbf0b54ae77a6f3",
+        "android_client_info": {
+          "package_name": "com.example.fahee.timetabledailylife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118544342411-a29srm42q6umptj4k2ttoah2vkdr69u7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fahee.timetabledailylife",
+            "certificate_hash": "3593fe80aebb4705e0e331662ac1d8b5e91f095f"
+          }
+        },
+        {
+          "client_id": "118544342411-o9d6s5aqhrhsp0f90a65cpr7un5cq14b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLiJPp54Tb1FqWscKUZmdcT92biCDhdAQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118544342411-o9d6s5aqhrhsp0f90a65cpr7un5cq14b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
