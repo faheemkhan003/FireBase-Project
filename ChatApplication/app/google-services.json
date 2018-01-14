@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "633565318448",
+    "firebase_url": "https://chat-e8235.firebaseio.com",
+    "project_id": "chat-e8235",
+    "storage_bucket": "chat-e8235.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633565318448:android:fbed5373c9a6864f",
+        "android_client_info": {
+          "package_name": "com.example.fahee.chatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633565318448-qr895nh231ejtvhe2t40of46hng9lc6o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fahee.chatapplication",
+            "certificate_hash": "3593fe80aebb4705e0e331662ac1d8b5e91f095f"
+          }
+        },
+        {
+          "client_id": "633565318448-sc642e6ivt34vufamc02bj5ms1a7e7kh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSMNEYDNyuHDfTLrfycLd5974ctUkvIsE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633565318448-sc642e6ivt34vufamc02bj5ms1a7e7kh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
