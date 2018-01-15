@@ -6,7 +6,7 @@
                 xmlns:tool="http://schemas.android.com/tools"
                 android:background="@color/viewBg"
                 app:layout_behavior="@string/appbar_scrolling_view_behavior"
-                tool:context="com.example.fahee.chatapplication.MainActivity"
+                tool:context="com.example.fahee.chatapplication.DetailActivity"
                 tool:showIn="@layout/activity_detail">
     <ScrollView
         android:layout_width="match_parent"

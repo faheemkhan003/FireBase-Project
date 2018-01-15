@@ -8,7 +8,7 @@
     <string name="log_out">Log Out</string>
     <string name="login">Login</string>
     <string name="your_email">Your Email</string>
-    <string name="setting">Setting</string>
+    <string name="action_settings">Setting</string>
     <string name="name_movie">Movie Title</string>
     <string name="movie_details">Movie Details</string>
     <string name="plot">Plot Synopsis</string>
