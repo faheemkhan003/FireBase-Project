@@ -38,6 +38,8 @@ public class MoviesAdapter extends RecyclerView.Adapter<MoviesAdapter.MyViewHold
     }
     @Override
     public void onBindViewHolder(final MoviesAdapter.MyViewHolder viewHolder,int i){
+        Movie movie = movieList.get(i);
+
         viewHolder.title.setText(movieList.get(i).getOrginialTitle());
         String vote = Double.toString(movieList.get(i).getVoteAverage());
         viewHolder.userrating.setText(vote);
@@ -51,9 +53,11 @@ public class MoviesAdapter extends RecyclerView.Adapter<MoviesAdapter.MyViewHold
     public int getItemCount(){
         return movieList.size();
     }
+
     public class MyViewHolder extends RecyclerView.ViewHolder{
         public TextView title,userrating;
         public ImageView thumbnail;
+
         public MyViewHolder(final View view){
             super(view);
             title=(TextView)view.findViewById(R.id.title);
@@ -77,6 +81,10 @@ public class MoviesAdapter extends RecyclerView.Adapter<MoviesAdapter.MyViewHold
                     }
                 }
             });
+        }
+
+        public void bindView(Movie movie){
+
         }
     }
 
